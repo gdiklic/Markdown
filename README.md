@@ -1,2 +1,4 @@
 # Markdown
-Repozitorij za seminar  Markdown
+Goran Diklić
+Leo Domitrović
+Filip Nikolaus
