@@ -1,4 +1,4 @@
 # Markdown
-Goran Diklić
-Leo Domitrović
-Filip Nikolaus
+1. Goran Diklić 
+2. Leo Domitrović
+3. Filip Nikolaus
