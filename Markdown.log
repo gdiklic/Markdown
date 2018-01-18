@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.18)  11 JAN 2018 15:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.18)  13 JAN 2018 22:07
 entering extended mode
 **./Markdown.tex
 (Markdown.tex
@@ -1007,6 +1007,25 @@ Now handling font encoding PD1 ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2017/05/19 3.10 The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\Goran\AppData\Roaming\MiKTeX\2.9\tex\latex\arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\Goran\AppData\Roaming\MiKTeX\2.9\tex\latex\babel-croatian\croatian.ld
+f
+Language: croatian 2014/03/31 v1.3m Croatian support from the babel system
+ ("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2017/05/19 3.10 Babel common definitions
+\babel@savecnt=\count155
+\U@D=\dimen190
+LaTeX Info: Redefining \textlatin on input line 1648.
+)))
 (C:\Users\Goran\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerthemeMadrid.s
 ty
 (C:\Users\Goran\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamercolorthemewha
@@ -1019,20 +1038,20 @@ nded.sty)
 olines.sty)) (Markdown.aux)
 \openout1 = `Markdown.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1070,16 +1089,16 @@ LaTeX Font Info:    ... okay on input line 9.
 
 (C:\Users\Goran\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count155
-\scratchdimen=\dimen190
+\scratchcounter=\count156
+\scratchdimen=\dimen191
 \scratchbox=\box53
-\nofMPsegments=\count156
-\nofMParguments=\count157
+\nofMPsegments=\count157
+\nofMParguments=\count158
 \everyMPshowfont=\toks45
-\MPscratchCnt=\count158
-\MPscratchDim=\dimen191
-\MPnumerator=\count159
-\makeMPintoPDFobject=\count160
+\MPscratchCnt=\count159
+\MPscratchDim=\dimen192
+\MPnumerator=\count160
+\makeMPintoPDFobject=\count161
 \everyMPtoPDFconversion=\toks46
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -1096,7 +1115,7 @@ G,.JBIG2,.JB2,.eps]
 )
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box54
-Package hyperref Info: Link coloring OFF on input line 9.
+Package hyperref Info: Link coloring OFF on input line 12.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1104,68 +1123,68 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count161
+\c@section@level=\count162
 )
-LaTeX Info: Redefining \ref on input line 9.
-LaTeX Info: Redefining \pageref on input line 9.
-LaTeX Info: Redefining \nameref on input line 9.
+LaTeX Info: Redefining \ref on input line 12.
+LaTeX Info: Redefining \pageref on input line 12.
+LaTeX Info: Redefining \nameref on input line 12.
 
 (Markdown.out) (Markdown.out)
 \@outlinefile=\write5
 \openout5 = `Markdown.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 9.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 12.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 9.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 12.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 9.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 12.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 9.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 12.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 9.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 9.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 12.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 12.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 9.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 12.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 9.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 9.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 12.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 12.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 9.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 12.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 9.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 9.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 12.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 12.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 9.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 12.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 9.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 12.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 9.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 12.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 9.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 12.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 9.
+(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 12.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 9.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 12.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 9.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 12.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 9.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 12.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 9.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 9.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 12.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 12.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 9
-.
+(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 1
+2.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 
-9.
+12.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 9.
+ut line 12.
 
 (C:\Users\Goran\AppData\Roaming\MiKTeX\2.9\tex\latex\translator\translator-basi
 c-dictionary-English.dict
@@ -1194,7 +1213,324 @@ Dictionary: translator-theorem-dictionary, Language: English
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] [2
 
+] [3
+
 ]
+</Users/Goran/Documents/GitHub/Markdown/Podebljavanje.png, id=106, 470.35725pt 
+x 60.82726pt>
+File: /Users/Goran/Documents/GitHub/Markdown/Podebljavanje.png Graphic file (ty
+pe png)
+ <use /Users/Goran/Documents/GitHub/Markdown/Podebljavanje.png>
+Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Podebljavanje.p
+ng used on input line 66.
+(pdftex.def)             Requested size: 342.2953pt x 44.26707pt.
+
+</Users/Goran/Documents/GitHub/Markdown/Prikaz1.png, id=107, 469.755pt x 46.373
+25pt>
+File: /Users/Goran/Documents/GitHub/Markdown/Prikaz1.png Graphic file (type png
+)
+ <use /Users/Goran/Documents/GitHub/Markdown/Prikaz1.png>
+Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Prikaz1.png use
+d on input line 66.
+(pdftex.def)             Requested size: 342.2953pt x 33.79062pt.
+ [4
+
+ </Users/Goran/Documents/GitHub/Markdown/Podebljavanje.png> </Users/Goran/Docum
+ents/GitHub/Markdown/Prikaz1.png>]
+</Users/Goran/Documents/GitHub/Markdown/Ukosavanje.png, id=134, 468.5505pt x 43
+.96425pt>
+File: /Users/Goran/Documents/GitHub/Markdown/Ukosavanje.png Graphic file (type 
+png)
+ <use /Users/Goran/Documents/GitHub/Markdown/Ukosavanje.png>
+Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Ukosavanje.png 
+used on input line 83.
+(pdftex.def)             Requested size: 342.2953pt x 32.11844pt.
+
+</Users/Goran/Documents/GitHub/Markdown/Prikaz2.png, id=135, 468.5505pt x 38.54
+4pt>
+File: /Users/Goran/Documents/GitHub/Markdown/Prikaz2.png Graphic file (type png
+)
+ <use /Users/Goran/Documents/GitHub/Markdown/Prikaz2.png>
+Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Prikaz2.png use
+d on input line 83.
+(pdftex.def)             Requested size: 342.2953pt x 28.15863pt.
+ [5
+
+ </Users/Goran/Documents/GitHub/Markdown/Ukosavanje.png> </Users/Goran/Document
+s/GitHub/Markdown/Prikaz2.png>]
+</Users/Goran/Documents/GitHub/Markdown/Kombinacija.png, id=162, 467.94826pt x 
+27.10126pt>
+File: /Users/Goran/Documents/GitHub/Markdown/Kombinacija.png Graphic file (type
+ png)
+ <use /Users/Goran/Documents/GitHub/Markdown/Kombinacija.png>
+Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Kombinacija.png
+ used on input line 101.
+(pdftex.def)             Requested size: 342.2953pt x 19.82426pt.
+
+</Users/Goran/Documents/GitHub/Markdown/Prikaz3.png, id=163, 467.346pt x 27.703
+5pt>
+File: /Users/Goran/Documents/GitHub/Markdown/Prikaz3.png Graphic file (type png
+)
+ <use /Users/Goran/Documents/GitHub/Markdown/Prikaz3.png>
+Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Prikaz3.png use
+d on input line 101.
+(pdftex.def)             Requested size: 342.2953pt x 20.29057pt.
+ [6
+
+ </Users/Goran/Documents/GitHub/Markdown/Kombinacija.png> </Users/Goran/Documen
+ts/GitHub/Markdown/Prikaz3.png>] [7
+
+]
+</Users/Goran/Documents/GitHub/Markdown/Zaglavlja.png, id=217, 468.5505pt x 74.
+679pt>
+File: /Users/Goran/Documents/GitHub/Markdown/Zaglavlja.png Graphic file (type p
+ng)
+ <use /Users/Goran/Documents/GitHub/Markdown/Zaglavlja.png>
+Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Zaglavlja.png u
+sed on input line 131.
+(pdftex.def)             Requested size: 342.2953pt x 54.55736pt.
+
+</Users/Goran/Documents/GitHub/Markdown/Prikaz_zaglavlja.png, id=218, 469.15276
+pt x 183.68625pt>
+File: /Users/Goran/Documents/GitHub/Markdown/Prikaz_zaglavlja.png Graphic file 
+(type png)
+
+<use /Users/Goran/Documents/GitHub/Markdown/Prikaz_zaglavlja.png>
+Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Prikaz_zaglavlj
+a.png used on input line 131.
+(pdftex.def)             Requested size: 342.31401pt x 120.00284pt.
+ [8
+
+ </Users/Goran/Documents/GitHub/Markdown/Zaglavlja.png> </Users/Goran/Documents
+/GitHub/Markdown/Prikaz_zaglavlja.png>]
+</Users/Goran/Documents/GitHub/Markdown/Zaglavlja2.png, id=245, 469.15276pt x 5
+6.6115pt>
+File: /Users/Goran/Documents/GitHub/Markdown/Zaglavlja2.png Graphic file (type 
+png)
+ <use /Users/Goran/Documents/GitHub/Markdown/Zaglavlja2.png>
+Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Zaglavlja2.png 
+used on input line 146.
+(pdftex.def)             Requested size: 342.2953pt x 41.30617pt.
+
+</Users/Goran/Documents/GitHub/Markdown/Prikaz_zaglavlja2.png, id=246, 468.5505
+pt x 65.64525pt>
+File: /Users/Goran/Documents/GitHub/Markdown/Prikaz_zaglavlja2.png Graphic file
+ (type png)
+
+<use /Users/Goran/Documents/GitHub/Markdown/Prikaz_zaglavlja2.png>
+Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Prikaz_zaglavlj
+a2.png used on input line 146.
+(pdftex.def)             Requested size: 342.2953pt x 47.95767pt.
+ [9
+
+ </Users/Goran/Documents/GitHub/Markdown/Zaglavlja2.png> </Users/Goran/Document
+s/GitHub/Markdown/Prikaz_zaglavlja2.png>]
+</Users/Goran/Documents/GitHub/Markdown/Oblikovanje_zaglavlja.png, id=273, 468.
+5505pt x 54.2025pt>
+File: /Users/Goran/Documents/GitHub/Markdown/Oblikovanje_zaglavlja.png Graphic 
+file (type png)
+
+<use /Users/Goran/Documents/GitHub/Markdown/Oblikovanje_zaglavlja.png>
+Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Oblikovanje_zag
+lavlja.png used on input line 161.
+(pdftex.def)             Requested size: 342.2953pt x 39.59808pt.
+
+</Users/Goran/Documents/GitHub/Markdown/Prikaz_oblikovanja_zaglavlja.png, id=27
+4, 467.94826pt x 53.60025pt>
+File: /Users/Goran/Documents/GitHub/Markdown/Prikaz_oblikovanja_zaglavlja.png G
+raphic file (type png)
+
+<use /Users/Goran/Documents/GitHub/Markdown/Prikaz_oblikovanja_zaglavlja.png>
+Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Prikaz_oblikova
+nja_zaglavlja.png used on input line 161.
+(pdftex.def)             Requested size: 342.2953pt x 39.208pt.
+
+[10
+
+ </Users/Goran/Documents/GitHub/Markdown/Oblikovanje_zaglavlja.png> </Users/Gor
+an/Documents/GitHub/Markdown/Prikaz_oblikovanja_zaglavlja.png>] [11
+
+]
+</Users/Goran/Documents/GitHub/Markdown/Poveznica1.png, id=327, 468.5505pt x 30
+.1125pt>
+File: /Users/Goran/Documents/GitHub/Markdown/Poveznica1.png Graphic file (type 
+png)
+ <use /Users/Goran/Documents/GitHub/Markdown/Poveznica1.png>
+Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Poveznica1.png 
+used on input line 192.
+(pdftex.def)             Requested size: 342.2953pt x 21.99893pt.
+ [12
+
+ </Users/Goran/Documents/GitHub/Markdown/Poveznica1.png>]
+</Users/Goran/Documents/GitHub/Markdown/Poveznica2.png, id=358, 469.15276pt x 7
+1.0655pt>
+File: /Users/Goran/Documents/GitHub/Markdown/Poveznica2.png Graphic file (type 
+png)
+ <use /Users/Goran/Documents/GitHub/Markdown/Poveznica2.png>
+Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Poveznica2.png 
+used on input line 212.
+(pdftex.def)             Requested size: 342.2953pt x 51.85242pt.
+ [13
+
+ </Users/Goran/Documents/GitHub/Markdown/Poveznica2.png>] [14
+
+]
+</Users/Goran/Documents/GitHub/Markdown/Slike.png, id=414, 468.5505pt x 56.6115
+pt>
+File: /Users/Goran/Documents/GitHub/Markdown/Slike.png Graphic file (type png)
+ <use /Users/Goran/Documents/GitHub/Markdown/Slike.png>
+Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Slike.png used 
+on input line 254.
+(pdftex.def)             Requested size: 342.2953pt x 41.35799pt.
+
+</Users/Goran/Documents/GitHub/Markdown/Volvo.png, id=415, 192.72pt x 192.72pt>
+File: /Users/Goran/Documents/GitHub/Markdown/Volvo.png Graphic file (type png)
+<use /Users/Goran/Documents/GitHub/Markdown/Volvo.png>
+Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Volvo.png used 
+on input line 254.
+(pdftex.def)             Requested size: 50.0pt x 50.00014pt.
+
+</Users/Goran/Documents/GitHub/Markdown/Mercedes.png, id=416, 256.96pt x 256.96
+pt>
+File: /Users/Goran/Documents/GitHub/Markdown/Mercedes.png Graphic file (type pn
+g)
+ <use /Users/Goran/Documents/GitHub/Markdown/Mercedes.png>
+Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Mercedes.png us
+ed on input line 254.
+(pdftex.def)             Requested size: 50.0pt x 49.99916pt.
+ [15
+
+ </Users/Goran/Documents/GitHub/Markdown/Slike.png> </Users/Goran/Documents/Git
+Hub/Markdown/Volvo.png> </Users/Goran/Documents/GitHub/Markdown/Mercedes.png>]
+</Users/Goran/Documents/GitHub/Markdown/Poveznica_na_sliku.png, id=445, 468.550
+5pt x 16.863pt>
+File: /Users/Goran/Documents/GitHub/Markdown/Poveznica_na_sliku.png Graphic fil
+e (type png)
+
+<use /Users/Goran/Documents/GitHub/Markdown/Poveznica_na_sliku.png>
+Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Poveznica_na_sl
+iku.png used on input line 268.
+(pdftex.def)             Requested size: 342.2953pt x 12.3194pt.
+File: /Users/Goran/Documents/GitHub/Markdown/Volvo.png Graphic file (type png)
+
+<use /Users/Goran/Documents/GitHub/Markdown/Volvo.png>
+Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Volvo.png used 
+on input line 268.
+(pdftex.def)             Requested size: 100.0pt x 100.00029pt.
+ [16
+
+ </Users/Goran/Documents/GitHub/Markdown/Poveznica_na_sliku.png>]
+LaTeX Font Info:    Try loading font information for U+msa on input line 286.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 286.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
+line 286.
+
+(C:\Users\Goran\AppData\Roaming\MiKTeX\2.9\tex\latex\sansmathaccent\ot1mathkern
+cmss.fd
+File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
+thkerncmss.
+)
+</Users/Goran/Documents/GitHub/Markdown/Citati.png, id=473, 468.5505pt x 110.81
+4pt>
+File: /Users/Goran/Documents/GitHub/Markdown/Citati.png Graphic file (type png)
+
+ <use /Users/Goran/Documents/GitHub/Markdown/Citati.png>
+Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Citati.png used
+ on input line 286.
+(pdftex.def)             Requested size: 342.2953pt x 80.95609pt.
+
+</Users/Goran/Documents/GitHub/Markdown/Citati_prikaz.png, id=474, 469.15276pt 
+x 105.996pt>
+File: /Users/Goran/Documents/GitHub/Markdown/Citati_prikaz.png Graphic file (ty
+pe png)
+ <use /Users/Goran/Documents/GitHub/Markdown/Citati_prikaz.png>
+Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Citati_prikaz.p
+ng used on input line 286.
+(pdftex.def)             Requested size: 342.2953pt x 77.33922pt.
+
+[17
+
+ </Users/Goran/Documents/GitHub/Markdown/Citati.png> </Users/Goran/Documents/Gi
+tHub/Markdown/Citati_prikaz.png>] [18
+
+]
+</Users/Goran/Documents/GitHub/Markdown/Neuredene_liste.png, id=529, 468.5505pt
+ x 97.5645pt>
+File: /Users/Goran/Documents/GitHub/Markdown/Neuredene_liste.png Graphic file (
+type png)
+ <use /Users/Goran/Documents/GitHub/Markdown/Neuredene_liste.png>
+Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Neuredene_liste
+.png used on input line 310.
+(pdftex.def)             Requested size: 342.2953pt x 71.27655pt.
+
+</Users/Goran/Documents/GitHub/Markdown/Neuredene_liste_prikaz.png, id=530, 469
+.15276pt x 102.98476pt>
+File: /Users/Goran/Documents/GitHub/Markdown/Neuredene_liste_prikaz.png Graphic
+ file (type png)
+
+<use /Users/Goran/Documents/GitHub/Markdown/Neuredene_liste_prikaz.png>
+Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Neuredene_liste
+_prikaz.png used on input line 310.
+(pdftex.def)             Requested size: 342.2953pt x 75.14207pt.
+
+[19
+
+ </Users/Goran/Documents/GitHub/Markdown/Neuredene_liste.png> </Users/Goran/Doc
+uments/GitHub/Markdown/Neuredene_liste_prikaz.png>]
+</Users/Goran/Documents/GitHub/Markdown/Numerirane_liste.png, id=558, 467.94826
+pt x 96.96225pt>
+File: /Users/Goran/Documents/GitHub/Markdown/Numerirane_liste.png Graphic file 
+(type png)
+
+<use /Users/Goran/Documents/GitHub/Markdown/Numerirane_liste.png>
+Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Numerirane_list
+e.png used on input line 324.
+(pdftex.def)             Requested size: 342.2953pt x 70.92683pt.
+
+</Users/Goran/Documents/GitHub/Markdown/Numerirane_liste_prikaz.png, id=559, 46
+8.5505pt x 100.57574pt>
+File: /Users/Goran/Documents/GitHub/Markdown/Numerirane_liste_prikaz.png Graphi
+c file (type png)
+
+<use /Users/Goran/Documents/GitHub/Markdown/Numerirane_liste_prikaz.png>
+Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Numerirane_list
+e_prikaz.png used on input line 324.
+(pdftex.def)             Requested size: 342.2953pt x 73.47646pt.
+
+[20
+
+ </Users/Goran/Documents/GitHub/Markdown/Numerirane_liste.png> </Users/Goran/Do
+cuments/GitHub/Markdown/Numerirane_liste_prikaz.png>]
+</Users/Goran/Documents/GitHub/Markdown/Blokovi_koda.png, id=585, 467.94826pt x
+ 30.1125pt>
+File: /Users/Goran/Documents/GitHub/Markdown/Blokovi_koda.png Graphic file (typ
+e png)
+ <use /Users/Goran/Documents/GitHub/Markdown/Blokovi_koda.png>
+Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Blokovi_koda.pn
+g used on input line 344.
+(pdftex.def)             Requested size: 342.2953pt x 22.02695pt.
+
+</Users/Goran/Documents/GitHub/Markdown/Blokovi_koda_prikaz.png, id=586, 468.55
+05pt x 30.1125pt>
+File: /Users/Goran/Documents/GitHub/Markdown/Blokovi_koda_prikaz.png Graphic fi
+le (type png)
+
+<use /Users/Goran/Documents/GitHub/Markdown/Blokovi_koda_prikaz.png>
+Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Blokovi_koda_pr
+ikaz.png used on input line 344.
+(pdftex.def)             Requested size: 342.2953pt x 21.99893pt.
+ [21
+
+ </Users/Goran/Documents/GitHub/Markdown/Blokovi_koda.png> </Users/Goran/Docume
+nts/GitHub/Markdown/Blokovi_koda_prikaz.png>]
 \tf@nav=\write6
 \openout6 = `Markdown.nav'.
 
@@ -1204,31 +1540,31 @@ Dictionary: translator-theorem-dictionary, Language: English
 \tf@snm=\write8
 \openout8 = `Markdown.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 34.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 34.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 382.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 382.
  (Markdown.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 34.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 34.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 382.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 382.
 Package rerunfilecheck Info: File `Markdown.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 17259 strings out of 493323
- 328328 string characters out of 3139065
- 401716 words of memory out of 3000000
- 20414 multiletter control sequences out of 15000+200000
- 5757 words of font info for 21 fonts, out of 3000000 for 9000
+ 17949 strings out of 493323
+ 343011 string characters out of 3139065
+ 419023 words of memory out of 3000000
+ 21003 multiletter control sequences out of 15000+200000
+ 11051 words of font info for 40 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,15n,57p,804b,649s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{Navigation3} has been referenced but does not exi
-st, replaced by a fixed one
-
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Prog
-ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program File
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss8.pfb>
-Output written on Markdown.pdf (2 pages, 49397 bytes).
+ 56i,15n,57p,804b,647s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmsy10.pfb>
+Output written on Markdown.pdf (21 pages, 329147 bytes).
 PDF statistics:
- 90 PDF objects out of 1000 (max. 8388607)
- 6 named destinations out of 1000 (max. 500000)
- 67 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 644 PDF objects out of 1000 (max. 8388607)
+ 43 named destinations out of 1000 (max. 500000)
+ 197 words of extra memory for PDF output out of 10000 (max. 10000000)
 
