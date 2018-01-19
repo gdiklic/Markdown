@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.18)  13 JAN 2018 22:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.18)  19 JAN 2018 12:40
 entering extended mode
 **./Markdown.tex
 (Markdown.tex
@@ -1216,210 +1216,150 @@ Dictionary: translator-theorem-dictionary, Language: English
 ] [3
 
 ]
-</Users/Goran/Documents/GitHub/Markdown/Podebljavanje.png, id=106, 470.35725pt 
-x 60.82726pt>
-File: /Users/Goran/Documents/GitHub/Markdown/Podebljavanje.png Graphic file (ty
-pe png)
- <use /Users/Goran/Documents/GitHub/Markdown/Podebljavanje.png>
-Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Podebljavanje.p
-ng used on input line 66.
+<Podebljavanje.png, id=106, 470.35725pt x 60.82726pt>
+File: Podebljavanje.png Graphic file (type png)
+ <use Podebljavanje.png>
+Package pdftex.def Info: Podebljavanje.png used on input line 66.
 (pdftex.def)             Requested size: 342.2953pt x 44.26707pt.
 
-</Users/Goran/Documents/GitHub/Markdown/Prikaz1.png, id=107, 469.755pt x 46.373
-25pt>
-File: /Users/Goran/Documents/GitHub/Markdown/Prikaz1.png Graphic file (type png
-)
- <use /Users/Goran/Documents/GitHub/Markdown/Prikaz1.png>
-Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Prikaz1.png use
-d on input line 66.
+<Prikaz1.png, id=107, 469.755pt x 46.37325pt>
+File: Prikaz1.png Graphic file (type png)
+ <use Prikaz1.png>
+Package pdftex.def Info: Prikaz1.png used on input line 66.
 (pdftex.def)             Requested size: 342.2953pt x 33.79062pt.
  [4
 
- </Users/Goran/Documents/GitHub/Markdown/Podebljavanje.png> </Users/Goran/Docum
-ents/GitHub/Markdown/Prikaz1.png>]
-</Users/Goran/Documents/GitHub/Markdown/Ukosavanje.png, id=134, 468.5505pt x 43
-.96425pt>
-File: /Users/Goran/Documents/GitHub/Markdown/Ukosavanje.png Graphic file (type 
-png)
- <use /Users/Goran/Documents/GitHub/Markdown/Ukosavanje.png>
-Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Ukosavanje.png 
-used on input line 83.
-(pdftex.def)             Requested size: 342.2953pt x 32.11844pt.
+ <./Podebljavanje.png> <./Prikaz1.png>] <Ukosavanje.png, id=134, 468.5505pt x 4
+3.96425pt>
+File: Ukosavanje.png Graphic file (type png)
 
-</Users/Goran/Documents/GitHub/Markdown/Prikaz2.png, id=135, 468.5505pt x 38.54
-4pt>
-File: /Users/Goran/Documents/GitHub/Markdown/Prikaz2.png Graphic file (type png
-)
- <use /Users/Goran/Documents/GitHub/Markdown/Prikaz2.png>
-Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Prikaz2.png use
-d on input line 83.
+<use Ukosavanje.png>
+Package pdftex.def Info: Ukosavanje.png used on input line 83.
+(pdftex.def)             Requested size: 342.2953pt x 32.11844pt.
+ <Prikaz2.png, id=135, 468.5505pt x 38.544pt>
+File: Prikaz2.png Graphic file (type png)
+
+<use Prikaz2.png>
+Package pdftex.def Info: Prikaz2.png used on input line 83.
 (pdftex.def)             Requested size: 342.2953pt x 28.15863pt.
  [5
 
- </Users/Goran/Documents/GitHub/Markdown/Ukosavanje.png> </Users/Goran/Document
-s/GitHub/Markdown/Prikaz2.png>]
-</Users/Goran/Documents/GitHub/Markdown/Kombinacija.png, id=162, 467.94826pt x 
-27.10126pt>
-File: /Users/Goran/Documents/GitHub/Markdown/Kombinacija.png Graphic file (type
- png)
- <use /Users/Goran/Documents/GitHub/Markdown/Kombinacija.png>
-Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Kombinacija.png
- used on input line 101.
+ <./Ukosavanje.png> <./Prikaz2.png>]
+<Kombinacija.png, id=162, 467.94826pt x 27.10126pt>
+File: Kombinacija.png Graphic file (type png)
+ <use Kombinacija.png>
+Package pdftex.def Info: Kombinacija.png used on input line 101.
 (pdftex.def)             Requested size: 342.2953pt x 19.82426pt.
 
-</Users/Goran/Documents/GitHub/Markdown/Prikaz3.png, id=163, 467.346pt x 27.703
-5pt>
-File: /Users/Goran/Documents/GitHub/Markdown/Prikaz3.png Graphic file (type png
-)
- <use /Users/Goran/Documents/GitHub/Markdown/Prikaz3.png>
-Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Prikaz3.png use
-d on input line 101.
+<Prikaz3.png, id=163, 467.346pt x 27.7035pt>
+File: Prikaz3.png Graphic file (type png)
+ <use Prikaz3.png>
+Package pdftex.def Info: Prikaz3.png used on input line 101.
 (pdftex.def)             Requested size: 342.2953pt x 20.29057pt.
  [6
 
- </Users/Goran/Documents/GitHub/Markdown/Kombinacija.png> </Users/Goran/Documen
-ts/GitHub/Markdown/Prikaz3.png>] [7
+ <./Kombinacija.png> <./Prikaz3.png>] [7
 
-]
-</Users/Goran/Documents/GitHub/Markdown/Zaglavlja.png, id=217, 468.5505pt x 74.
-679pt>
-File: /Users/Goran/Documents/GitHub/Markdown/Zaglavlja.png Graphic file (type p
-ng)
- <use /Users/Goran/Documents/GitHub/Markdown/Zaglavlja.png>
-Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Zaglavlja.png u
-sed on input line 131.
+] <Zaglavlja.png, id=217, 468.5505pt x 74.679pt>
+File: Zaglavlja.png Graphic file (type png)
+
+<use Zaglavlja.png>
+Package pdftex.def Info: Zaglavlja.png used on input line 131.
 (pdftex.def)             Requested size: 342.2953pt x 54.55736pt.
+ <Prikaz_zaglavlja.png, id=218, 469.15276pt x 183.68625pt>
+File: Prikaz_zaglavlja.png Graphic file (type png)
 
-</Users/Goran/Documents/GitHub/Markdown/Prikaz_zaglavlja.png, id=218, 469.15276
-pt x 183.68625pt>
-File: /Users/Goran/Documents/GitHub/Markdown/Prikaz_zaglavlja.png Graphic file 
-(type png)
-
-<use /Users/Goran/Documents/GitHub/Markdown/Prikaz_zaglavlja.png>
-Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Prikaz_zaglavlj
-a.png used on input line 131.
+<use Prikaz_zaglavlja.png>
+Package pdftex.def Info: Prikaz_zaglavlja.png used on input line 131.
 (pdftex.def)             Requested size: 342.31401pt x 120.00284pt.
  [8
 
- </Users/Goran/Documents/GitHub/Markdown/Zaglavlja.png> </Users/Goran/Documents
-/GitHub/Markdown/Prikaz_zaglavlja.png>]
-</Users/Goran/Documents/GitHub/Markdown/Zaglavlja2.png, id=245, 469.15276pt x 5
-6.6115pt>
-File: /Users/Goran/Documents/GitHub/Markdown/Zaglavlja2.png Graphic file (type 
-png)
- <use /Users/Goran/Documents/GitHub/Markdown/Zaglavlja2.png>
-Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Zaglavlja2.png 
-used on input line 146.
+ <./Zaglavlja.png> <./Prikaz_zaglavlja.png>]
+<Zaglavlja2.png, id=245, 469.15276pt x 56.6115pt>
+File: Zaglavlja2.png Graphic file (type png)
+ <use Zaglavlja2.png>
+Package pdftex.def Info: Zaglavlja2.png used on input line 146.
 (pdftex.def)             Requested size: 342.2953pt x 41.30617pt.
 
-</Users/Goran/Documents/GitHub/Markdown/Prikaz_zaglavlja2.png, id=246, 468.5505
-pt x 65.64525pt>
-File: /Users/Goran/Documents/GitHub/Markdown/Prikaz_zaglavlja2.png Graphic file
- (type png)
+<Prikaz_zaglavlja2.png, id=246, 468.5505pt x 65.64525pt>
+File: Prikaz_zaglavlja2.png Graphic file (type png)
 
-<use /Users/Goran/Documents/GitHub/Markdown/Prikaz_zaglavlja2.png>
-Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Prikaz_zaglavlj
-a2.png used on input line 146.
+<use Prikaz_zaglavlja2.png>
+Package pdftex.def Info: Prikaz_zaglavlja2.png used on input line 146.
 (pdftex.def)             Requested size: 342.2953pt x 47.95767pt.
  [9
 
- </Users/Goran/Documents/GitHub/Markdown/Zaglavlja2.png> </Users/Goran/Document
-s/GitHub/Markdown/Prikaz_zaglavlja2.png>]
-</Users/Goran/Documents/GitHub/Markdown/Oblikovanje_zaglavlja.png, id=273, 468.
-5505pt x 54.2025pt>
-File: /Users/Goran/Documents/GitHub/Markdown/Oblikovanje_zaglavlja.png Graphic 
-file (type png)
+ <./Zaglavlja2.png> <./Prikaz_zaglavlja2.png>]
+<Oblikovanje_zaglavlja.png, id=273, 468.5505pt x 54.2025pt>
+File: Oblikovanje_zaglavlja.png Graphic file (type png)
 
-<use /Users/Goran/Documents/GitHub/Markdown/Oblikovanje_zaglavlja.png>
-Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Oblikovanje_zag
-lavlja.png used on input line 161.
+<use Oblikovanje_zaglavlja.png>
+Package pdftex.def Info: Oblikovanje_zaglavlja.png used on input line 161.
 (pdftex.def)             Requested size: 342.2953pt x 39.59808pt.
 
-</Users/Goran/Documents/GitHub/Markdown/Prikaz_oblikovanja_zaglavlja.png, id=27
-4, 467.94826pt x 53.60025pt>
-File: /Users/Goran/Documents/GitHub/Markdown/Prikaz_oblikovanja_zaglavlja.png G
-raphic file (type png)
+<Prikaz_oblikovanja_zaglavlja.png, id=274, 467.94826pt x 53.60025pt>
+File: Prikaz_oblikovanja_zaglavlja.png Graphic file (type png)
 
-<use /Users/Goran/Documents/GitHub/Markdown/Prikaz_oblikovanja_zaglavlja.png>
-Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Prikaz_oblikova
-nja_zaglavlja.png used on input line 161.
+<use Prikaz_oblikovanja_zaglavlja.png>
+Package pdftex.def Info: Prikaz_oblikovanja_zaglavlja.png used on input line 16
+1.
 (pdftex.def)             Requested size: 342.2953pt x 39.208pt.
+ [10
 
-[10
-
- </Users/Goran/Documents/GitHub/Markdown/Oblikovanje_zaglavlja.png> </Users/Gor
-an/Documents/GitHub/Markdown/Prikaz_oblikovanja_zaglavlja.png>] [11
+ <./Oblikovanje_zaglavlja.png> <./Prikaz_oblikovanja_zaglavlja.png>] [11
 
 ]
-</Users/Goran/Documents/GitHub/Markdown/Poveznica1.png, id=327, 468.5505pt x 30
-.1125pt>
-File: /Users/Goran/Documents/GitHub/Markdown/Poveznica1.png Graphic file (type 
-png)
- <use /Users/Goran/Documents/GitHub/Markdown/Poveznica1.png>
-Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Poveznica1.png 
-used on input line 192.
+<Poveznica1.png, id=327, 468.5505pt x 30.1125pt>
+File: Poveznica1.png Graphic file (type png)
+ <use Poveznica1.png>
+Package pdftex.def Info: Poveznica1.png used on input line 192.
 (pdftex.def)             Requested size: 342.2953pt x 21.99893pt.
  [12
 
- </Users/Goran/Documents/GitHub/Markdown/Poveznica1.png>]
-</Users/Goran/Documents/GitHub/Markdown/Poveznica2.png, id=358, 469.15276pt x 7
-1.0655pt>
-File: /Users/Goran/Documents/GitHub/Markdown/Poveznica2.png Graphic file (type 
-png)
- <use /Users/Goran/Documents/GitHub/Markdown/Poveznica2.png>
-Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Poveznica2.png 
-used on input line 212.
+ <./Poveznica1.png>] <Poveznica2.png, id=358, 469.15276pt x 71.0655pt>
+File: Poveznica2.png Graphic file (type png)
+
+<use Poveznica2.png>
+Package pdftex.def Info: Poveznica2.png used on input line 212.
 (pdftex.def)             Requested size: 342.2953pt x 51.85242pt.
  [13
 
- </Users/Goran/Documents/GitHub/Markdown/Poveznica2.png>] [14
+ <./Poveznica2.png>] [14
 
 ]
-</Users/Goran/Documents/GitHub/Markdown/Slike.png, id=414, 468.5505pt x 56.6115
-pt>
-File: /Users/Goran/Documents/GitHub/Markdown/Slike.png Graphic file (type png)
- <use /Users/Goran/Documents/GitHub/Markdown/Slike.png>
-Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Slike.png used 
-on input line 254.
+<Slike.png, id=414, 468.5505pt x 56.6115pt>
+File: Slike.png Graphic file (type png)
+ <use Slike.png>
+Package pdftex.def Info: Slike.png used on input line 254.
 (pdftex.def)             Requested size: 342.2953pt x 41.35799pt.
 
-</Users/Goran/Documents/GitHub/Markdown/Volvo.png, id=415, 192.72pt x 192.72pt>
-File: /Users/Goran/Documents/GitHub/Markdown/Volvo.png Graphic file (type png)
-<use /Users/Goran/Documents/GitHub/Markdown/Volvo.png>
-Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Volvo.png used 
-on input line 254.
+<Volvo.png, id=415, 192.72pt x 192.72pt>
+File: Volvo.png Graphic file (type png)
+ <use Volvo.png>
+Package pdftex.def Info: Volvo.png used on input line 254.
 (pdftex.def)             Requested size: 50.0pt x 50.00014pt.
 
-</Users/Goran/Documents/GitHub/Markdown/Mercedes.png, id=416, 256.96pt x 256.96
-pt>
-File: /Users/Goran/Documents/GitHub/Markdown/Mercedes.png Graphic file (type pn
-g)
- <use /Users/Goran/Documents/GitHub/Markdown/Mercedes.png>
-Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Mercedes.png us
-ed on input line 254.
+<Mercedes.png, id=416, 256.96pt x 256.96pt>
+File: Mercedes.png Graphic file (type png)
+ <use Mercedes.png>
+Package pdftex.def Info: Mercedes.png used on input line 254.
 (pdftex.def)             Requested size: 50.0pt x 49.99916pt.
  [15
 
- </Users/Goran/Documents/GitHub/Markdown/Slike.png> </Users/Goran/Documents/Git
-Hub/Markdown/Volvo.png> </Users/Goran/Documents/GitHub/Markdown/Mercedes.png>]
-</Users/Goran/Documents/GitHub/Markdown/Poveznica_na_sliku.png, id=445, 468.550
-5pt x 16.863pt>
-File: /Users/Goran/Documents/GitHub/Markdown/Poveznica_na_sliku.png Graphic fil
-e (type png)
+ <./Slike.png> <./Volvo.png> <./Mercedes.png>]
+<Poveznica_na_sliku.png, id=445, 468.5505pt x 16.863pt>
+File: Poveznica_na_sliku.png Graphic file (type png)
 
-<use /Users/Goran/Documents/GitHub/Markdown/Poveznica_na_sliku.png>
-Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Poveznica_na_sl
-iku.png used on input line 268.
+<use Poveznica_na_sliku.png>
+Package pdftex.def Info: Poveznica_na_sliku.png used on input line 268.
 (pdftex.def)             Requested size: 342.2953pt x 12.3194pt.
-File: /Users/Goran/Documents/GitHub/Markdown/Volvo.png Graphic file (type png)
-
-<use /Users/Goran/Documents/GitHub/Markdown/Volvo.png>
-Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Volvo.png used 
-on input line 268.
+File: Volvo.png Graphic file (type png)
+ <use Volvo.png>
+Package pdftex.def Info: Volvo.png used on input line 268.
 (pdftex.def)             Requested size: 100.0pt x 100.00029pt.
  [16
 
- </Users/Goran/Documents/GitHub/Markdown/Poveznica_na_sliku.png>]
+ <./Poveznica_na_sliku.png>]
 LaTeX Font Info:    Try loading font information for U+msa on input line 286.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
@@ -1437,100 +1377,71 @@ line 286.
 cmss.fd
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
-)
-</Users/Goran/Documents/GitHub/Markdown/Citati.png, id=473, 468.5505pt x 110.81
-4pt>
-File: /Users/Goran/Documents/GitHub/Markdown/Citati.png Graphic file (type png)
-
- <use /Users/Goran/Documents/GitHub/Markdown/Citati.png>
-Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Citati.png used
- on input line 286.
+) <Citati.png, id=473, 468.5505pt x 110.814pt>
+File: Citati.png Graphic file (type png)
+ <use Citati.png>
+Package pdftex.def Info: Citati.png used on input line 286.
 (pdftex.def)             Requested size: 342.2953pt x 80.95609pt.
 
-</Users/Goran/Documents/GitHub/Markdown/Citati_prikaz.png, id=474, 469.15276pt 
-x 105.996pt>
-File: /Users/Goran/Documents/GitHub/Markdown/Citati_prikaz.png Graphic file (ty
-pe png)
- <use /Users/Goran/Documents/GitHub/Markdown/Citati_prikaz.png>
-Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Citati_prikaz.p
-ng used on input line 286.
+<Citati_prikaz.png, id=474, 469.15276pt x 105.996pt>
+File: Citati_prikaz.png Graphic file (type png)
+ <use Citati_prikaz.png>
+Package pdftex.def Info: Citati_prikaz.png used on input line 286.
 (pdftex.def)             Requested size: 342.2953pt x 77.33922pt.
 
 [17
 
- </Users/Goran/Documents/GitHub/Markdown/Citati.png> </Users/Goran/Documents/Gi
-tHub/Markdown/Citati_prikaz.png>] [18
+ <./Citati.png> <./Citati_prikaz.png>] [18
 
 ]
-</Users/Goran/Documents/GitHub/Markdown/Neuredene_liste.png, id=529, 468.5505pt
- x 97.5645pt>
-File: /Users/Goran/Documents/GitHub/Markdown/Neuredene_liste.png Graphic file (
-type png)
- <use /Users/Goran/Documents/GitHub/Markdown/Neuredene_liste.png>
-Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Neuredene_liste
-.png used on input line 310.
+<Neuredene_liste.png, id=529, 468.5505pt x 97.5645pt>
+File: Neuredene_liste.png Graphic file (type png)
+
+<use Neuredene_liste.png>
+Package pdftex.def Info: Neuredene_liste.png used on input line 310.
 (pdftex.def)             Requested size: 342.2953pt x 71.27655pt.
 
-</Users/Goran/Documents/GitHub/Markdown/Neuredene_liste_prikaz.png, id=530, 469
-.15276pt x 102.98476pt>
-File: /Users/Goran/Documents/GitHub/Markdown/Neuredene_liste_prikaz.png Graphic
- file (type png)
+<Neuredene_liste_prikaz.png, id=530, 469.15276pt x 102.98476pt>
+File: Neuredene_liste_prikaz.png Graphic file (type png)
 
-<use /Users/Goran/Documents/GitHub/Markdown/Neuredene_liste_prikaz.png>
-Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Neuredene_liste
-_prikaz.png used on input line 310.
+<use Neuredene_liste_prikaz.png>
+Package pdftex.def Info: Neuredene_liste_prikaz.png used on input line 310.
 (pdftex.def)             Requested size: 342.2953pt x 75.14207pt.
+ [19
 
-[19
+ <./Neuredene_liste.png> <./Neuredene_liste_prikaz.png>] <Numerirane_liste.png,
+ id=558, 467.94826pt x 96.96225pt>
+File: Numerirane_liste.png Graphic file (type png)
 
- </Users/Goran/Documents/GitHub/Markdown/Neuredene_liste.png> </Users/Goran/Doc
-uments/GitHub/Markdown/Neuredene_liste_prikaz.png>]
-</Users/Goran/Documents/GitHub/Markdown/Numerirane_liste.png, id=558, 467.94826
-pt x 96.96225pt>
-File: /Users/Goran/Documents/GitHub/Markdown/Numerirane_liste.png Graphic file 
-(type png)
-
-<use /Users/Goran/Documents/GitHub/Markdown/Numerirane_liste.png>
-Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Numerirane_list
-e.png used on input line 324.
+<use Numerirane_liste.png>
+Package pdftex.def Info: Numerirane_liste.png used on input line 324.
 (pdftex.def)             Requested size: 342.2953pt x 70.92683pt.
 
-</Users/Goran/Documents/GitHub/Markdown/Numerirane_liste_prikaz.png, id=559, 46
-8.5505pt x 100.57574pt>
-File: /Users/Goran/Documents/GitHub/Markdown/Numerirane_liste_prikaz.png Graphi
-c file (type png)
+<Numerirane_liste_prikaz.png, id=559, 468.5505pt x 100.57574pt>
+File: Numerirane_liste_prikaz.png Graphic file (type png)
 
-<use /Users/Goran/Documents/GitHub/Markdown/Numerirane_liste_prikaz.png>
-Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Numerirane_list
-e_prikaz.png used on input line 324.
+<use Numerirane_liste_prikaz.png>
+Package pdftex.def Info: Numerirane_liste_prikaz.png used on input line 324.
 (pdftex.def)             Requested size: 342.2953pt x 73.47646pt.
+ [20
 
-[20
+ <./Numerirane_liste.png> <./Numerirane_liste_prikaz.png>] <Blokovi_koda.png, i
+d=585, 467.94826pt x 30.1125pt>
+File: Blokovi_koda.png Graphic file (type png)
 
- </Users/Goran/Documents/GitHub/Markdown/Numerirane_liste.png> </Users/Goran/Do
-cuments/GitHub/Markdown/Numerirane_liste_prikaz.png>]
-</Users/Goran/Documents/GitHub/Markdown/Blokovi_koda.png, id=585, 467.94826pt x
- 30.1125pt>
-File: /Users/Goran/Documents/GitHub/Markdown/Blokovi_koda.png Graphic file (typ
-e png)
- <use /Users/Goran/Documents/GitHub/Markdown/Blokovi_koda.png>
-Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Blokovi_koda.pn
-g used on input line 344.
+<use Blokovi_koda.png>
+Package pdftex.def Info: Blokovi_koda.png used on input line 344.
 (pdftex.def)             Requested size: 342.2953pt x 22.02695pt.
 
-</Users/Goran/Documents/GitHub/Markdown/Blokovi_koda_prikaz.png, id=586, 468.55
-05pt x 30.1125pt>
-File: /Users/Goran/Documents/GitHub/Markdown/Blokovi_koda_prikaz.png Graphic fi
-le (type png)
+<Blokovi_koda_prikaz.png, id=586, 468.5505pt x 30.1125pt>
+File: Blokovi_koda_prikaz.png Graphic file (type png)
 
-<use /Users/Goran/Documents/GitHub/Markdown/Blokovi_koda_prikaz.png>
-Package pdftex.def Info: /Users/Goran/Documents/GitHub/Markdown/Blokovi_koda_pr
-ikaz.png used on input line 344.
+<use Blokovi_koda_prikaz.png>
+Package pdftex.def Info: Blokovi_koda_prikaz.png used on input line 344.
 (pdftex.def)             Requested size: 342.2953pt x 21.99893pt.
  [21
 
- </Users/Goran/Documents/GitHub/Markdown/Blokovi_koda.png> </Users/Goran/Docume
-nts/GitHub/Markdown/Blokovi_koda_prikaz.png>]
+ <./Blokovi_koda.png> <./Blokovi_koda_prikaz.png>]
 \tf@nav=\write6
 \openout6 = `Markdown.nav'.
 
@@ -1549,8 +1460,8 @@ Package rerunfilecheck Info: File `Markdown.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 17949 strings out of 493323
- 343011 string characters out of 3139065
+ 17948 strings out of 493323
+ 338916 string characters out of 3139065
  419023 words of memory out of 3000000
  21003 multiletter control sequences out of 15000+200000
  11051 words of font info for 40 fonts, out of 3000000 for 9000
